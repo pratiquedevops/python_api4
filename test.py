@@ -30,4 +30,6 @@ m=Button(fenetre, text="presserr le bouton",command=moro)
 m.pack()
 
 # On démarre la boucle Tkinter qui s'interompt quand on ferme la fenêtre
+# On démarre la boucle Tkinter qui s'interompt quand on ferme la fenêtre
 fenetre.mainloop()
+
